@@ -2,10 +2,10 @@
 
 Before coding, I organised travel for Formula 1 teams and business travel in a fast growing travel management company
 
-- 🔭 I’m currently working on my sleep-tracker__ 
-app, which aims to give you feedback on good and__
+- 🔭 I’m currently working on my sleep-tracker<br />
+app, which aims to give you feedback on good and<br />
 bad sleep habits. 
-- 🌱 I’m currently learning about building scalable__
+- 🌱 I’m currently learning about building scalable<br />
 and maintainable front-end architecture
 - 📫 How to reach me: willvonarend@gmail.com
 
