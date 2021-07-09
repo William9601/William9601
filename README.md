@@ -12,3 +12,5 @@ and maintainable front-end architecture
 - 📫 How to reach me: willvonarend@gmail.com
 
 
+### My Languages
+![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png "Javascript Logo")
