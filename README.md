@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Will, a Software Developer from Barcelona
 
-Before coding, I organised travel for Formula 1 teams and business travel in a fast growing travel management company
+Before coding, I organised travel for Formula 1 teams and worked in a fast growing SaaS company
 
 In my spare time, I enjoy building guitars, playing music and mountain biking
 
